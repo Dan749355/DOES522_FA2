@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Useless_Sama\\source\\repos\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj": {}
+    "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Useless_Sama\\source\\repos\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj": {
+    "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Useless_Sama\\source\\repos\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
+        "projectUniqueName": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
         "projectName": "simpleProjectForDOES522",
-        "projectPath": "C:\\Users\\Useless_Sama\\source\\repos\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
+        "projectPath": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
         "packagesPath": "C:\\Users\\Useless_Sama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Useless_Sama\\source\\repos\\simpleProjectForDOES522\\simpleProjectForDOES522\\obj\\",
+        "outputPath": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
