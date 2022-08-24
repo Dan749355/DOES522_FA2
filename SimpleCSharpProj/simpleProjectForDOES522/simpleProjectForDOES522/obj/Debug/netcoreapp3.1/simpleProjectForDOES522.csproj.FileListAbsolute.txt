@@ -1,0 +1,14 @@
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.exe
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.deps.json
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.runtimeconfig.json
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.runtimeconfig.dev.json
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.dll
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\bin\Debug\netcoreapp3.1\simpleProjectForDOES522.pdb
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.csproj.AssemblyReference.cache
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.AssemblyInfoInputs.cache
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.AssemblyInfo.cs
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.csproj.CoreCompileInputs.cache
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.dll
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.pdb
+C:\Users\Useless_Sama\source\repos\simpleProjectForDOES522\simpleProjectForDOES522\obj\Debug\netcoreapp3.1\simpleProjectForDOES522.genruntimeconfig.cache
