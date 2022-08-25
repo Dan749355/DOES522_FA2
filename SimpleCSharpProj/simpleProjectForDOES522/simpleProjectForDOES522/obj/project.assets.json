@@ -8,25 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Useless_Sama\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dan74\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
+      "projectUniqueName": "C:\\Users\\dan74\\Documents\\DOES522_FA2_Repos\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
       "projectName": "simpleProjectForDOES522",
-      "projectPath": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
-      "packagesPath": "C:\\Users\\Useless_Sama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Useless_Sama\\Documents\\GitReposFA2\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\obj\\",
+      "projectPath": "C:\\Users\\dan74\\Documents\\DOES522_FA2_Repos\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\simpleProjectForDOES522.csproj",
+      "packagesPath": "C:\\Users\\dan74\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dan74\\Documents\\DOES522_FA2_Repos\\DOES522_FA2\\SimpleCSharpProj\\simpleProjectForDOES522\\simpleProjectForDOES522\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Useless_Sama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dan74\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
